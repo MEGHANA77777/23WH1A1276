@@ -1,17 +1,4 @@
 # 23WH1A1276
-
-The following is the directory structure:
-
-src/
- ├── App.js
- ├── components/
- │      ├── NotificationList.js
- │      └── NotificationCard.js
- ├── utils/
- │      └── priority.js
- └── services/
-        └── notificationService.js
-
 #Campus Notification Management
 
 A React-based notification management application developed as Campus Hiring Evaluation.
