@@ -8,11 +8,9 @@ function App(){
     const [notifications,setNotifications]=useState([]);
     const [top,setTop]=useState(10);
 
-    useEffect(()=>{
-
+    useEffect(()=> {
         loadNotifications();
-
-    },[]);
+    })
 
 
     async function loadNotifications(){
